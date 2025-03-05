@@ -1,1 +1,1 @@
-http://username:password@host:port
+http://jwdnjlox:ia2cax35ywpv@45.151.162.198:6600
