@@ -1,3 +1,1 @@
-http://proxy1:port
-http://proxy2:port
-https://user:pass@proxy:port
+http://username:password@host:port
